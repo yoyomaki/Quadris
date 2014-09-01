@@ -6,5 +6,24 @@ Date: 07/30/2014
 
 ======
 
-Quadris is the latinsation of the game Tetris. This code was developer
-as part of CS246 (Object-Oriented Software Development).
+Quadris is a Latinsation of the game Tetris.   
+
+======
+
+Command:
+
+======
+
+* left
+* right
+* down
+* clockwise
+* counterclockwise
+* drop
+* levelup
+* leveldown
+* restart
+* EOF terminates the game
+* example: accpet lef to distinguish left from levelup
+* prefix: 3ri means move to the right three times
+
