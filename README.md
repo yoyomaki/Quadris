@@ -1,7 +1,7 @@
 Quadris
 =======
 
-Developers: Qian Qiao, Yunhao Xue
+Developers: Qian Qiao, Yunhao Xue  
 Date: 07/30/2014
 
 ======
